@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alc Phase 1 challenge</string>
+    <string name="Track">Android</string>
+    <string name="Slack">\@ronnieotieno</string>
+    <string name="Phone">+254706018504</string>
+    <string name="Name">Ronnie Otieno</string>
+    <string name="Email">ronnieotieno2@gmail.com</string>
+    <string name="Country">Kenya</string>
+    <string name="Welcome">Welcome to ALC 4.0</string>
+    <string name="About">ABOUT ALC</string>
+    <string name="myprofile">MY PROFILE</string>
+</resources>
