@@ -49,3 +49,4 @@ public class MyProfileActivity extends AppCompatActivity {
         textViewCountry.setText(getString(R.string.Country));
     }
 }
+

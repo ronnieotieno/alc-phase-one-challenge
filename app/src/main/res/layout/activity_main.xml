@@ -27,7 +27,6 @@
 
     <Button
         android:id="@+id/button"
-        android:fontFamily="@font/stint_ultra_expanded"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -35,6 +34,7 @@
         android:layout_marginEnd="8dp"
         android:background="@drawable/buttons"
         android:elevation="4dp"
+        android:fontFamily="@font/stint_ultra_expanded"
         android:onClick="openAboutALC"
         android:paddingLeft="70dp"
         android:paddingRight="70dp"
